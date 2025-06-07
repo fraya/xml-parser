@@ -6,6 +6,7 @@
         "meta@0.1",
     ],
     "dev-dependencies": [
+        "sphinx-extensions",
         "testworks"
     ],
     "license": "MIT",
