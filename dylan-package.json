@@ -6,7 +6,8 @@
         "meta@0.1",
     ],
     "dev-dependencies": [
-        "testworks@2.1"
+        "sphinx-extensions",
+        "testworks"
     ],
     "license": "MIT",
     "url": "https://github.com/dylan-lang/xml-parser"
